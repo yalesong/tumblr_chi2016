@@ -1,4 +1,5 @@
-nimated GIF Dataset (CHI 2016)
+#Tumblr Animated GIF Dataset (CHI 2016)
+
 This repository contains the Tumblr animated GIF dataset used in our CHI 2016 paper **"Fast, Cheap, and Good: Why Animated GIFs Engage Us."** 
 
 ## Introduction
